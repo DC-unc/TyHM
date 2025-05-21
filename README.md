@@ -1,5 +1,5 @@
 # TyHM
-Repositorio para TyHM
+Repositorio para Técnicas y Herramientas Modernas
 
 Nombre del Grupo: Teoría de Colas
 
